@@ -1,0 +1,18 @@
+.links{
+    display: flex;
+    justify-content:space-evenly;
+    opacity: 1;
+}
+
+.images{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+body{
+    background-color:#abcdef;
+}
+
+.logo{
+    margin-left:50px;
+}
